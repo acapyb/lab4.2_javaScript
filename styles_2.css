@@ -1,0 +1,38 @@
+/* CSS */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+label, input, button {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.feedback {
+    font-weight: bold;
+    margin-top: 10px;
+}
+/* CSS */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+label, input, button {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.feedback {
+    font-weight: bold;
+    margin-top: 10px;
+}

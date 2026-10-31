@@ -1,0 +1,97 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    background-color: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
+
+/* Main content styles */
+main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+/* Menu section styles */
+#menu {
+    width: 50%;
+}
+
+#menu h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#menu table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#menu th, #menu td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+#menu th {
+    background-color: #f8f8f8;
+}
+
+#menu td {
+    text-align: center;
+}
+
+#menu button {
+    background-color: #007bff;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#menu button:hover {
+    background-color: #0056b3;
+}
+
+/* Cart section styles */
+#cart {
+    width: 45%;
+}
+
+#cart h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#cart ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#cart ul li {
+    margin-bottom: 10px;
+}
+
+/* Checkout button styles */
+#checkout-btn {
+    margin-top: 10px;
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#checkout-btn:hover {
+    background-color: #218838;
+}
